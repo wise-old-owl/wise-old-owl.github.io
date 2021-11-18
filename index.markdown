@@ -1,3 +1,1 @@
-# Wise Old Owl
-
-Hoo! This is my Jekyll-themed page.
+Woo! This is my webpage - come in, have a cup of tea.
